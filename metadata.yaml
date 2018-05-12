@@ -1,0 +1,45 @@
+_repo: Theological-Essays_39266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradlaugh, Charles
+    aliases:
+    - Iconoclast
+    - Bradlaugh, C. (Charles)
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: v. 1. Heresy, its morality and utility ... Is there a God?  Has man a
+  soul?  Were Adam and Eve our first parents?  Who was Jesus? What did Jesus teach?
+  The atonement. Life of Abraham. Life of Jacob. Life of Moses. Life of David. Life
+  of Jonah. The twelve apostles. When were our Gospels written? Plea for atheism --
+  v. 2. Humanity's gain from unbelief. Notes on Christian evidences ... Lying for
+  the glory of God ... Supernatural and rational morality. Mr. Gladstone's reply to
+  Colonel Ingersoll on Christianity. A few words about the devil. Has man a soul?
+  ... Secularism unphilosophical, unsocial, and immoral ...
+gutenberg_issued: '2012-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: Heresy, its morality and utility -- Humanity's gain from unbelief
+  -- Supernatural and rational morality -- Has man a soul? -- Is there a God? -- A
+  plea for atheism -- A few words about the Devil -- Were Adam and Eve our first parents?
+  -- New life of Abraham -- New life of Jacob -- New life of Moses -- New life of
+  David -- A new life of Jonah -- Who was Jesus Christ? -- What did Jesus teach? --
+  The twelve apostles -- The atonement -- When were our Gospels written? -- Mr. Gladstone's
+  reply to Colonel Ingersoll on Christianity -- A few words on the Christians' creed.
+title: Theological Essays
+url: http://www.gutenberg.org/ebooks/39266
